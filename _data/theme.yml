@@ -77,7 +77,7 @@ navbar-background: bg-dark
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: darkly
+bootswatch: cosmo
 
 # THEME FONTS
 base-font-size: 1.2em
@@ -92,10 +92,10 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the default keys are icon-image, icon-audio, icon-video, icon-pdf, and icon-default
 # the values must match an icon svg name in "assets/lib/icons/"
 #
-# icons: 
-#   icon-image: image
-#   icon-audio: file-earmark-play
-#   icon-video: camera-video
-#   icon-pdf: file-earmark-text 
-#   icon-default: file-earmark # fall back icon
-#   icon-back-to-top: arrow-up-square # scroll to top icon
+ icons: 
+   icon-image: image
+   icon-audio: file-earmark-play
+   icon-video: camera-video
+   icon-pdf: file-earmark-text 
+   icon-default: file-earmark # fall back icon
+   icon-back-to-top: arrow-up-square # scroll to top icon
