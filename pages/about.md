@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://wallpapers.com/images/featured-full/mathematics-snya5mv2dogewetc.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+# {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
 
