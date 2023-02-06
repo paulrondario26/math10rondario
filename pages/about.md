@@ -10,12 +10,8 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://wallpapers.com/images/featured-full/mathematics-snya5mv2dogewetc.jpg" %}
 
-# {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 The website exhibits influential mathematicians from the last century, made by Eugeryl Paul Rondario for Math 10 under Sir Daryl Saddi.
 
 Made using CB, https://collectionbuilder.github.io/. It is an open source tool framework for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-
-# {% include cb/about_the_about.md %} 
